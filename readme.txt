@@ -1,4 +1,4 @@
-=== NoAdminComments ===
+﻿=== NoAdminComments ===
 Contributors: tihhgoncalves
 Tags: akismet, comments, hide, comentários, esconder, ocultar
 Requires at least: 3.0
@@ -18,6 +18,9 @@ Ele é bastante usado quando o site não permite comentar.
 
 Carregue o plugin em seu blog. Ative-o e pronto!
 == Changelog ==
+
+= 1.1.0 =
+ * No grid de "Posts", esconde coluna de "Comentários Pendentes".
 
 = 1.0.0 =
 * Escondeu no Drashbord a coluna "Discussão".
