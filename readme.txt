@@ -1,9 +1,9 @@
 ﻿=== NoAdminComments ===
 Contributors: tihhgoncalves
-Tags: akismet, comments, hide, comentários, esconder, ocultar
+Tags: comments, hide, comentários, esconder, ocultar
 Requires at least: 3.0
 Tested up to: 3.5
-Stable tag: 1.0.0
+Stable tag: 1.1.0
 License: GPLv2 or later
 
 Esconde no Painel Administrador do WordPress tudo o que se refere aos comentários.
