@@ -1,11 +1,13 @@
-li#menu-comments{
-	display: none!important;
-}
-
-li#wp-admin-bar-comments{
-	display: none!important;
-}
-
-.table_discussion{
-	display: none!important;
+li#menu-comments {
+	display: none!important;
+}
+li#wp-admin-bar-comments {
+	display: none!important;
+}
+.table_discussion {
+	display: none!important;
+}
+
+table.posts .column-comments{
+	display: none!important;
 }
