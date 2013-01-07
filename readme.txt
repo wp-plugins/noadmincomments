@@ -1,4 +1,4 @@
-=== Akismet ===
+=== No Admin Comments ===
 Contributors: tihhgoncalves
 Tags: akismet, comments, hide, comentários, esconder, ocultar
 Requires at least: 3.0
