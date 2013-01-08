@@ -1,5 +1,5 @@
 ﻿=== NoAdminComments ===
-Contributors: tihhgoncalves, Bugotech
+Contributors: tihhgoncalves, bugotech
 Tags: comments, hide, comentários, esconder, ocultar
 Requires at least: 3.0
 Tested up to: 3.5
