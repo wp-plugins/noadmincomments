@@ -4,7 +4,7 @@ Plugin Name: noAdminComments
 Plugin URI: 
 Description: Plugin que esconde comentários dentro do Painel Administrador do Wordpress
 Author: Nova Brazil Agência Interativa
-Version: 1.0.0
+Version: 1.1.0
 Author URI: http://www.novabrazil.art.br
 */
 
